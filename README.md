@@ -92,7 +92,7 @@ Is it possible to make an API call doing web development? One of the main format
 When it comes to Javascript, is this the primary language used for web applications? If not, what do you need to consider when it comes to determining what language to use before making your website? 
 In general, what is the learning curve like for web development? I see similarities between Javascript and Java, but are HTML and CSS difficult to learn? 
 I found Glitch to be an easy and straightforward web development tool. Is Glitch a widely used tool to create web applications? If not, is there a popular IDE or text editor that is used instead? 
-This prework assignment has taught me a lot already regarding web development, and I look forward to learning even more!    
+This prework assignment has taught me a lot already regarding web development, and I look forward to learning even more.    
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
