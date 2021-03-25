@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 - [x]
   Visual Timer, Visual Strike Counter
 
-## Video Walkthrough
+## Video Walkthrough-GIFs
 
 Here's a walkthrough of implemented user stories:
 
@@ -48,6 +48,12 @@ Link: http://g.recordit.co/c7ylT1FEWL.gif
 <img src = "http://g.recordit.co/L4eHqUxv4c.gif" width = 1100><br>
 
 <img src = "http://g.recordit.co/c7ylT1FEWL.gif" width = 1100><br>
+
+## Video Walkthrough with Sound
+
+Here's a walkthrough of the assignment with sound:
+
+[![Alt text](https://img.youtube.com/vi/cUlNpPZE7fA/0.jpg)](https://www.youtube.com/watch?v=cUlNpPZE7fA)
 
 
 ## Reflection Questions
