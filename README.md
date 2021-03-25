@@ -40,8 +40,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
-<img src = "http://g.recordit.co/L4eHqUxv4c.gif" width = 500><br>
+
+<img src = "http://g.recordit.co/L4eHqUxv4c.gif" width = 1100><br>
+
+<img src = "http://g.recordit.co/c7ylT1FEWL.gif" width = 1100><br>
 
 
 ## Reflection Questions
